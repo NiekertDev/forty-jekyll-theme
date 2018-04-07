@@ -1,10 +1,10 @@
 # Site settings
 title: Niekert
-subtitle: an MCPE developer
+subtitle: an ~~MCPE~~random developer
 email: me@niekert.tk
-description: An developer that makes plugins for PocketMine-MP
+description: An developer that made plugins for PocketMine-MP
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://www.niekert.tk" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Somewhere
@@ -20,14 +20,14 @@ tiles-count: 6
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/niekmussche
+github_url: https://github.com/NiekertDev
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
 linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/niekmussche
+twitter_url: https://twitter.com/NiekertDev
 
 # Build settings
 markdown: kramdown
